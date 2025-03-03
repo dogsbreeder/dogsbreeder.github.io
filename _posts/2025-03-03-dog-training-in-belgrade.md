@@ -2,7 +2,9 @@
 layout: post
 title: Why Choose Affordable Dog Training in Belgrade?
 subtitle: Dog training
-
+cover-img: /assets/img/the-best-boarding-facility-in-belgrade.jpg
+thumbnail-img: /assets/img/the-best-boarding-facility-in-belgrade.jpg
+share-img: /assets/img/path.jpg
 tags: [dog training]
 comments: true
 mathjax: true
