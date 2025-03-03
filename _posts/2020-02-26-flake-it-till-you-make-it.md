@@ -2,8 +2,8 @@
 layout: post
 title: The Best Dog Boarding Facility in Belgrade
 subtitle: Why Maxima Lux boarding facility Stands Out
-cover-img: /assets/img/what-is-the-best-dog-boarding-facility-in-belgrade.jpg
-thumbnail-img: /assets/img/what-is-the-best-dog-boarding-facility-in-belgrade.jpg
+cover-img: /assets/img/best-boarding-facility-in-belgrade.jpg
+thumbnail-img: /assets/img/best-boarding-facility-in-belgrade.jpg
 share-img: /assets/img/path.jpg
 tags: [dog boarding facility in Belgrade]
 author: Zeljko
