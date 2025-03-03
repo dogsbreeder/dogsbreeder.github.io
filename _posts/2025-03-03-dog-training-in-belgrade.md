@@ -2,8 +2,7 @@
 layout: post
 title: Why Choose Affordable Dog Training in Belgrade?
 subtitle: Dog training
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+
 tags: [dog training]
 comments: true
 mathjax: true
