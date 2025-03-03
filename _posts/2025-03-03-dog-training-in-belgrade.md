@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [dog training]
 comments: true
 mathjax: true
-author:Zeljko
+author: Zeljko
 ---
 
 
