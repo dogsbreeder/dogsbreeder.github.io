@@ -30,8 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: /assets/img/https://scontent.fbeg7-2.fna.fbcdn.net/v/t1.6435-1/195720292_10226718014758810_5483449063412541206_n.jpg?stp=c8.0.242.242a_dst-jpg_s200x200_tt6&_nc_cat=102&ccb=1-7&_nc_sid=e99d92&_nc_ohc=NYP5qMkjIqIQ7kNvgG0X6CR&_nc_oc=AdiVYw0T0A63dHO9_ytsdIcQ_qG_QtIALrDTKTOK1o9AxJP51cQEhuaWUsC6PYH1auo&_nc_zt=24&_nc_ht=scontent.fbeg7-2.fna&_nc_gid=AJTzbo0wtTUfS3LgVsxt7v0&oh=00_AYCec2Bc9udka0os_f2eD4eyAwTqxZZ9EwYyLn1QuxFEGw&oe=67ED0056
-
+avatar: /assets/img/https://i.postimg.cc/v8XCm0XB/dog-breeder-tips.jpg
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
